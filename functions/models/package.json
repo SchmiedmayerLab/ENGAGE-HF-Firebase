@@ -23,7 +23,7 @@
   ],
   "main": "lib/index.js",
   "dependencies": {
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@schmiedmayerlab/grove-configurations": "^0.1.1",
